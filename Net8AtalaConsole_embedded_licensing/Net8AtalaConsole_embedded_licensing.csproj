@@ -15,10 +15,10 @@
 
   <ItemGroup>
     <Reference Include="Atalasoft.dotImage">
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\6.0\x64\Atalasoft.dotImage.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\6.0\x64\Atalasoft.dotImage.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared">
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\6.0\x64\Atalasoft.Shared.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\6.0\x64\Atalasoft.Shared.dll</HintPath>
     </Reference>
   </ItemGroup>
 
